@@ -1,7 +1,7 @@
 # Tsunami's Minimal Apex Legends Config
 ## Which configs should I use?
 * autorun.cfg - This makes sprint a toggle versus hold and allows you to sprint out of ADS (Written by Anutim)
-* hudtweaks.cfg - This introduces some HUD changes, such as transparent HUD backgrounds, rotating minimap, semi-transparent pings, and grenade/health to activate on press from wheels
+* hudtweaks.cfg - This introduces some HUD changes, such as transparent HUD backgrounds, rotating minimap, semi-transparent pings, and grenade/health to activate on press from wheels. These are purely preference and offer no FPS gains.
 * toaster.cfg - This config will make your game look **noticeably** worse with a trade-off of higher FPS. Use this if you need more frames.
 
 ## How to Use
