@@ -1,6 +1,7 @@
 # Tsunami's Minimal Apex Legends Config
 ## Which configs should I use?
 * hudtweaks.cfg - This introduces some HUD changes, such as transparent HUD backgrounds, rotating minimap, semi-transparent pings, and grenade/health to activate on press from wheels. These are purely preference and offer no FPS gains. **Recommended**
+* occlusion.cfg - This config disables sound occlusion, reducing the blocking of noise when there are objects or entities between you and the sound source. **Recommended**
 * toaster.cfg - This config will make your game look worse with a trade-off of higher FPS. Use this if you need more frames. **Recommended**
 * toggleads.cfg - This allows you to cancel ADS with sprint, reload, or right click at all times, while keeping the buffer functionality for transitioning into ADS (Written by Anutim).
 
@@ -16,7 +17,8 @@
 `alias "+anu_sprint" "-zoom; alias adstoggle startzoom"
 alias "-anu_sprint" "+speed; -speed"`
 This will make you sprint by letting go of the key instead.
-2. If you are using `toggleads.cfg`, it will override your current r, lshift and mouse2 binds.
+2. If you use `toggleads.cfg`, it will override your current r, lshift and mouse2 binds.
+3. To reset settings, you will either have to flip the values back to their defaults and relaunch, or reinstall the game. In the near future I will provide a config that does just this.
 
 ## Questions? Suggestions?
 [Join us on Discord](https://discord.gg/2HgNzD9).
