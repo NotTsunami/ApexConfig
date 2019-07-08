@@ -1,6 +1,6 @@
 # Tsunami's Minimal Apex Legends Config
 
-**__As of patch 1.2, most config commands received flag explicitly disabling them. As a result, this config currently won't achieve much. While it is a [known issue](https://www.reddit.com/r/apexlegends/comments/bxbaer/known_issues_post_patch_12/), the first patch following this only reenabled three commands, and Respawn seems to have nixed configs, unfortunately. A *potential* workaround might be setting a videoconfig with equivalent settings, but this has yet to be confirmed.__**
+**__As of patch 1.2, most config commands received a flag explicitly disabling them. As a result, this config currently won't achieve much anymore. While it is a [known issue](https://www.reddit.com/r/apexlegends/comments/bxbaer/known_issues_post_patch_12/), the first patch following this only reenabled three commands. While custom resolution commands were reenabled, they remain the only advantage to running a config anymore.**
 
 ## Which configs should I use?
 * hudtweaks.cfg - This introduces some HUD changes, such as rotating minimap, semi-transparent pings, and grenade/health to activate on press from wheels. These are purely preference and offer no FPS gains. **Recommended**
