@@ -1,4 +1,4 @@
-# Tsunami's Minimal Apex Legends Config
+# Tsunami's Apex Legends Config
 
 **As of patch 1.2, most config commands received a flag explicitly disabling them. As a result, this config currently won't achieve much anymore. While it is a [known issue](https://www.reddit.com/r/apexlegends/comments/bxbaer/known_issues_post_patch_12/), the first patch following this only reenabled three commands. If more commands are reenabled that affect FPS, this config will be updated accordingly.**
 
